@@ -1,6 +1,2 @@
-pornhub.com
-youtube.com
-www.youtube.com
-tiktok.com
-www.tiktok.com
-
+[enter the domains you want to block]
+www.example.com
